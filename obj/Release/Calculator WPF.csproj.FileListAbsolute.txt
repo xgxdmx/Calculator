@@ -1,0 +1,37 @@
+E:\VS\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.exe.config
+E:\VS\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.exe.manifest
+E:\VS\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.application
+E:\VS\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.exe
+E:\VS\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.pdb
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\MainWindow.baml
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\MainWindow.g.cs
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\App.g.cs
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF_MarkupCompile.cache
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.g.resources
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator_WPF.Properties.Resources.resources
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.csproj.GenerateResource.cache
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.csproj.CoreCompileInputs.cache
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.TrustInfo.xml
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.exe.manifest
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.application
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.exe
+E:\VS\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.pdb
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.exe.config
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.exe.manifest
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.application
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.exe
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\bin\Release\Calculator WPF.pdb
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.csprojAssemblyReference.cache
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\MainWindow.baml
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\MainWindow.g.cs
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\App.g.cs
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF_MarkupCompile.cache
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.g.resources
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator_WPF.Properties.Resources.resources
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.csproj.GenerateResource.cache
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.csproj.CoreCompileInputs.cache
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.TrustInfo.xml
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.exe.manifest
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.application
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.exe
+E:\NSI\C# PPT\Calculator WPF\Calculator WPF\obj\Release\Calculator WPF.pdb
